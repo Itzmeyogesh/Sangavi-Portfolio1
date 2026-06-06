@@ -10,7 +10,7 @@ import {
   FaEnvelope,
 } from "react-icons/fa";
 
-import profile from "../assets/profile.jpg";
+import profile from "../assets/Profile.jpeg";
 import resume from "../assets/Resume.pdf";
 
 const Home = () => {
